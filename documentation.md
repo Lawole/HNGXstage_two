@@ -45,18 +45,17 @@ To interact with the API, you can use tools like curl, Postman, or write your ow
 Here's a basic example using curl:
 
 Create a user:
-curl -X POST -H "Content-Type: application/json" -d '{"name": "John Doe"}' http://localhost:5000/api
+curl -X POST -H "Content-Type: application/json" -d '{"name": "John Micheal"}' https://hngstage-two.onrender.com/api
 
 
 Get all users:
-curl http://localhost:5000/api
+curl https://hngstage-two.onrender.com/api
 
 
 Update a user:
-curl -X PUT -H "Content-Type: application/json" -d '{"name": "Updated Name"}' http://localhost:5000/api/1
+curl -X PUT -H "Content-Type: application/json" -d '{"name": "Micheal"}' https://hngstage-two.onrender.com/api/1
 
 Delete a user:
-curl -X DELETE http://localhost:5000/api/1
-Contributing
-Contributions to this project are welcome! If you would like to contribute, please follow these guidelines:
+curl -X DELETE https://hngstage-two.onrender.com/api/1
+
 
