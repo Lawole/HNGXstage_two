@@ -1,3 +1,4 @@
-flask~=2.3.3
-SQLAlchemy~=2.0.20
+flask
+SQLAlchemy
 FLASK-SQLAlchemy
+gunicorn==20.1.0
