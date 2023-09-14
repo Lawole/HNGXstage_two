@@ -13,3 +13,5 @@ A Simple CRUD API to create a Person object with the attribute name.
 check [documentation.md](https://github.com/Lawole/HNGXstage_two/blob/master/documentation.md)
 #### Access the API in POSTMAN at: ```https://hngstage-two.onrender.com/api```
 # Technologies used 
+Python 
+Python flask web framework 
